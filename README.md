@@ -1,1 +1,1 @@
-# my learning about c++'s log
+# my learning c++'s log
